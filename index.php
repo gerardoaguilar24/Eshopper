@@ -32,8 +32,8 @@
 					<div class="col-sm-6">
 						<div class="contactinfo">
 							<ul class="nav nav-pills">
-								<li><a href="#"><i class="fa fa-phone"></i> +52 618 1200 776</a></li>
-								<li><a href="#"><i class="fa fa-envelope"></i> atencionclientes@gmail.com</a></li>
+								<li><a href="#"><i class="fa fa-phone"></i> 618 120028034</a></li>
+								<li><a href="#"><i class="fa fa-envelope"></i> janderyalexander@gmail.com</a></li>
 							</ul>
 						</div>
 					</div>
@@ -52,7 +52,9 @@
 							<a href="index.php"><img src="images/home/logo.png" alt="" /></a>
 						</div>						
 					</div>
+					<H3>SOFTWARE PUNTO DE VENTA</H3>
 					<div class="col-sm-8">
+						Por: Gerardo Aguilar
 						<div class="shop-menu pull-right">
 							<ul class="nav navbar-nav">
 								<li><a href="checkout.php"><i class="fa fa-crosshairs"></i> Pagar</a></li>
